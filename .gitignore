@@ -38,5 +38,5 @@ yarn-error.log*
 next-env.d.ts
 
 # videos (keep folder, ignore media)
-/downloads/*
-!/downloads/.gitkeep
+#/downloads/*
+#!/downloads/.gitkeep
