@@ -2,9 +2,9 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CGP Delhi Player",
+  title: "CGP Protest Videos | Delhi Protest Updates & Live Coverage",
   description:
-    "Netflix-style continuous video player that streams every file from ./downloads",
+    "Watch videos from the CGP protest movement in Delhi. Browse speeches, public gatherings, interviews, protest footage, and updates in a continuous video experience.",
 };
 
 export const viewport: Viewport = {
